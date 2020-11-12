@@ -113,7 +113,7 @@ sensor:
       - 'Past Day'
   - platform: geo_rss_events
     name: BGS Worlwide Earthquakes
-    url: https://www.bgs.ac.uk/feeds/worldSeismology.xml
+    url: http://quakes.bgs.ac.uk/feeds/WorldSeismology.xml
     categories:
       - 'EQMH'
   - platform: geo_rss_events
